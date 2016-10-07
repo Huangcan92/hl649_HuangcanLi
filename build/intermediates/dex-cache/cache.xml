@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0dd98245ce445df708b8bdb5c82c8373aaae486">
+        <dex dex="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cb475cab2ccac8b841b4da6c304e471a8bcfbdcf\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_e77e373548cb51d227f854a3160f2935b8332c17\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_c200cb4aa7821f53b4ecb06fe16e56f9687ac0e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\XYuser\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_0c0172d0c3be9db29a00f4bf4b29febdd4a71d31\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_d141541dc2a98a85e7424ec650695f0a9e274c06\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f90c46018b96c2aad4c8376a8219b858c1fb77d7">
+        <dex dex="E:\AndroidFiles\AndroidStudioProjects\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3bca6ee2733c3ad1e0e3e50842f0157750a273de\classes.dex" />
+    </item>
+
+</items>
